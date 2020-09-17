@@ -1,0 +1,1 @@
+SDN文件夹存放界面代码，登陆界面是login.py，主界面main_window.py；附件脚本在data文件夹里。
